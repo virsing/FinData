@@ -22,9 +22,10 @@ Record financial LLM datasets
 
 ## Finetune Data
 1. [Yayi](https://huggingface.co/datasets/wenge-research/yayi_domain_subset)
+
 |data|language|num|size|link|comment
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|金融sft数据|zh|99,420|95.1MB||根据金融新闻事件构造而成
+|雅意-金融sft数据|zh|99,420|95.1MB|[hf](https://huggingface.co/datasets/wenge-research/yayi_domain_subset)|根据金融新闻事件构造而成
 
 
 ## RLHF Data
