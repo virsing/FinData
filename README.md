@@ -10,6 +10,7 @@ Record financial LLM datasets
 |金融-财报|zh|2500|2022-02-28 至 2023-05-10|[hf](https://huggingface.co/datasets/TigerResearch/tigerbot-earning-plugin)|TigerBot外部数据源，抽取后按段落保存
 
 2. [BBT-FinCorpus](https://github.com/ssymmetry/BBT-FinCUGE-Applications)
+
 |data|language|raw size|size|link|comment
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |上市公司公告|zh|2TB|105GB||过去二十年,中国所有上市公司公告，原始数据为 PDF 格式
