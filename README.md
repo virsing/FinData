@@ -27,7 +27,8 @@ Record financial LLM datasets
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |雅意-金融sft数据|zh|99,420|95.1MB|[hf](https://huggingface.co/datasets/wenge-research/yayi_domain_subset)|根据金融新闻事件构造而成
 
-2. [PIXIU](https://github.com/The-FinAI/PIXIU/tree/main)本项目收集了大量开源金融sft数据
+2. [PIXIU](https://github.com/The-FinAI/PIXIU/tree/main)
+本项目收集了大量开源金融sft数据
 
 |data|language|num|link|comment
 |:-:|:-:|:-:|:-:|:-:|
