@@ -21,4 +21,10 @@ Record financial LLM datasets
 目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至model@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
 
 ## Finetune Data
+1. [Yayi](https://huggingface.co/datasets/wenge-research/yayi_domain_subset)
+|data|language|num|size|link|comment
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|金融sft数据|zh|99,420|95.1MB||根据金融新闻事件构造而成
 
+
+## RLHF Data
