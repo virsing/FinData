@@ -20,6 +20,17 @@ Record financial LLM datasets
 
 目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至model@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
 
+3. [Duxiaoman-DI/XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan)
+本次开源高质量中文金融数据集FinCorpus，语料大小约60G，主要构成如下：
+
+|文件名|数据类别|大小|link|comment
+|:-:|:-:|:-:|:-:|:-:|	
+announcement_data.jsonl|	上市公司公告|	20G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
+fin_news_data.jsonl|	金融资讯/新闻	|30G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
+fin_articles_data.jsonl	|金融资讯/新闻	|10G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
+fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
+
+
 ## Finetune Data
 1. [Yayi](https://huggingface.co/datasets/wenge-research/yayi_domain_subset)
 
