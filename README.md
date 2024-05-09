@@ -31,13 +31,13 @@ fin_news_data.jsonl|	金融资讯/新闻	|30G|[hf](https://huggingface.co/datase
 fin_articles_data.jsonl	|金融资讯/新闻	|10G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融资讯/新闻
 fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融试题
 
-4. [Tushare数据开放社区](https://tushare.pro/)
+4. [Tushare数据开放社区](https://tushare.pro/)  
 免费提供各类金融数据api, 助力行业和量化研究, 如股票、基金、期货、数字货币等行情数据，公司财务、基金经理等基本面数据。是一个全面的金融大数据平台。
   - 资讯类：包括新浪财经、东方财富、同花顺、云财经、华尔街见闻。
   - 专业类：包含股票、基金、期货、债券、外汇、行业大数据等，同时包括了数字货币行情等区块链数据的全数据品类。
 
-5. [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)[Doc](https://ai4finance-foundation.github.io/FinNLP/zh/)//
-AI4Finance开源的金融数据api平台，类别非常全面，包括新闻、社交媒体、公司公告、趋势、数据集。
+5. [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)[Doc](https://ai4finance-foundation.github.io/FinNLP/zh/)  
+  AI4Finance开源的金融数据api平台，类别非常全面，包括新闻、社交媒体、公司公告、趋势、数据集。
 
 ## Finetune Data
 1. [Yayi](https://huggingface.co/datasets/wenge-research/yayi_domain_subset)
