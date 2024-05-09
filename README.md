@@ -25,10 +25,10 @@ Record financial LLM datasets
 
 |文件名|数据类别|大小|link|comment
 |:-:|:-:|:-:|:-:|:-:|	
-announcement_data.jsonl|	上市公司公告|	20G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
-fin_news_data.jsonl|	金融资讯/新闻	|30G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
-fin_articles_data.jsonl	|金融资讯/新闻	|10G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
-fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|
+announcement_data.jsonl|	上市公司公告|	20G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|上市公司公告
+fin_news_data.jsonl|	金融资讯/新闻	|30G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融资讯/新闻
+fin_articles_data.jsonl	|金融资讯/新闻	|10G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融资讯/新闻
+fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融试题
 
 
 ## Finetune Data
