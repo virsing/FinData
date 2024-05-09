@@ -21,7 +21,7 @@ Record financial LLM datasets
 |社交媒体|zh|-|120GB|股吧和雪球网过去二十年内的所有股民和博主发表的帖子
 
 
-3. [Duxiaoman-DI/XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan)
+3. [Duxiaoman-DI/XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan)  
 本次开源高质量中文金融数据集FinCorpus，语料大小约60G，主要构成如下：
 
 |文件名|数据类别|大小|link|comment
@@ -36,7 +36,7 @@ fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoma
     - 资讯类：包括新浪财经、东方财富、同花顺、云财经、华尔街见闻。
     - 专业类：包含股票、基金、期货、债券、外汇、行业大数据等，同时包括了数字货币行情等区块链数据的全数据品类。
 
-5. [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)[Doc](https://ai4finance-foundation.github.io/FinNLP/zh/)  
+5. [FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)、[Doc](https://ai4finance-foundation.github.io/FinNLP/zh/)  
   AI4Finance开源的金融数据api平台，类别非常全面，包括新闻、社交媒体、公司公告、趋势、数据集。
 
 ## Finetune Data
