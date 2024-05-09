@@ -11,7 +11,7 @@ Record financial LLM datasets
 
 
 2. [BBT-FinCorpus](https://github.com/ssymmetry/BBT-FinCUGE-Applications)  
-  目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至model@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
+目前开源了该语料库的base版和large版，分别包含每种语料各4GB和16GB，如需使用，请发送邮件至model@ssymmetry.com 标题为BBT-FinCorpus-{base or large}申请，内容中说明身份、所属机构和用途
 
 |data|language|raw size|size|comment
 |:-:|:-:|:-:|:-:|:-:|
@@ -22,7 +22,7 @@ Record financial LLM datasets
 
 
 3. [Duxiaoman-DI/XuanYuan](https://github.com/Duxiaoman-DI/XuanYuan)
-  本次开源高质量中文金融数据集FinCorpus，语料大小约60G，主要构成如下：
+本次开源高质量中文金融数据集FinCorpus，语料大小约60G，主要构成如下：
 
 |文件名|数据类别|大小|link|comment
 |:-:|:-:|:-:|:-:|:-:|	
@@ -32,7 +32,7 @@ fin_articles_data.jsonl	|金融资讯/新闻	|10G|[hf](https://huggingface.co/da
 fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融试题
 
 4. [Tushare数据开放社区](https://tushare.pro/)  
-  免费提供各类金融数据api, 助力行业和量化研究, 如股票、基金、期货、数字货币等行情数据，公司财务、基金经理等基本面数据。是一个全面的金融大数据平台。
+免费提供各类金融数据api, 助力行业和量化研究, 如股票、基金、期货、数字货币等行情数据，公司财务、基金经理等基本面数据。是一个全面的金融大数据平台。
     - 资讯类：包括新浪财经、东方财富、同花顺、云财经、华尔街见闻。
     - 专业类：包含股票、基金、期货、债券、外汇、行业大数据等，同时包括了数字货币行情等区块链数据的全数据品类。
 
