@@ -31,7 +31,7 @@ fin_news_data.jsonl|	金融资讯/新闻	|30G|[hf](https://huggingface.co/datase
 fin_articles_data.jsonl	|金融资讯/新闻	|10G|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融资讯/新闻
 fin_exam.jsonl|	金融试题	|370M|[hf](https://huggingface.co/datasets/Duxiaoman-DI/FinCorpus)|金融试题
 
-4. [Tushare数据开放社区][官网](https://tushare.pro/)  [github](https://github.com/waditu/tushare)
+4. [Tushare数据开放社区][官网](https://tushare.pro/)  [github](https://github.com/waditu/tushare)  
 免费提供各类金融数据api, 助力行业和量化研究, 如股票、基金、期货、数字货币等行情数据，公司财务、基金经理等基本面数据。是一个全面的金融大数据平台。
     - 资讯类：包括新浪财经、东方财富、同花顺、云财经、华尔街见闻。
     - 专业类：包含股票、基金、期货、债券、外汇、行业大数据等，同时包括了数字货币行情等区块链数据的全数据品类。
